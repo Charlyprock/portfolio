@@ -1,0 +1,7 @@
+export * from './level.service'
+export * from './department.service'
+export * from './classe.service'
+export * from './speciality.service'
+export * from './student.service'
+export * from './year.service'
+export * from './user.service'
