@@ -9,7 +9,7 @@
         </div> -->
 
         <!-- Navigation -->
-        <div class="w-[calc(100%-50px)] lg:w-[60%] rotate-10 absolute top-0 left-0">
+        <div class="w-[calc(100%-50px)] lg:w-[calc(60%-50px)] rotate-10 absolute top-0 left-0">
             <img alt="mon logo" src="@/assets/imgs/code.png" class="size-full" />
         </div>
         <nav class="relative w-full bg-black/85 py-[20px] px-[40px] svg-curve">
@@ -350,16 +350,16 @@
                 <div class="flex items-center gap-3">
                     <!-- facebook -->
                     <a href="https://www.facebook.com/charly.kouasseu/" target="_blank" class="w-8">
-                        <img alt="mon logo" src="@/assets/icons/facebook.svg" class="size-full" />
+                        <img alt="icon de facebook" src="@/assets/icons/facebook.svg" class="size-full" />
                     </a>
 
-                    <a href="https://www.facebook.com/charly.kouasseu/" target="_blank" class="w-8">
-                        <img alt="mon logo" src="@/assets/icons/linkeding.svg" class="size-full" />
+                    <a href="https://www.linkedin.com/in/charly-kouasseu/" target="_blank" class="w-8">
+                        <img alt="icone de linkeding" src="@/assets/icons/linkeding.svg" class="size-full" />
                     </a>
 
                     <a href="mailto:kouasseu.tamayeu@gmail.com" target="_blank">
                         <div class="w-8">
-                            <img alt="mon logo" src="@/assets/icons/gmail.svg" class="size-full" />
+                            <img alt="icone de gmail" src="@/assets/icons/gmail.svg" class="size-full" />
                         </div>
                     </a>
                 </div>
