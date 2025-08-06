@@ -9,7 +9,7 @@
         </div> -->
 
         <!-- Navigation -->
-        <div class="w-[900px] rotate-10 absolute top-0 left-0">
+        <div class="w-[calc(100%-50px)] lg:w-[60%] rotate-10 absolute top-0 left-0">
             <img alt="mon logo" src="@/assets/imgs/code.png" class="size-full" />
         </div>
         <nav class="relative w-full bg-black/85 py-[20px] px-[40px] svg-curve">
